@@ -1,2 +1,2 @@
-# quete-git
+# LOCAL
 essais quete git
